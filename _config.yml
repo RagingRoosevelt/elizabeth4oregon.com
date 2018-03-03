@@ -1,0 +1,29 @@
+# Site settings
+title: Elizabeth Graser-Lindsey for Oregon HD39
+baseurl: "" # the subpath of your site, e.g. /blog
+# for rss, etc
+name: Elizabeth Graser-Lindsey
+url: file:///E:/Dropbox/Projects/elizabeth4oregon/ghp/_site
+#url: "elizabeth4oregon.com" # the base hostname & protocol for your site
+description: > # this means to ignore newlines until "baseurl:"
+  Campaign site for Elizabeth Graser-Lindsey for Oregon House District 39
+
+# usernames
+#username_twitter: RagingRoosevelt
+#username_github: RagingRoosevelt
+#username_gplus: +TheodoreSatchLindsey
+#username_linkedin: theodorelindsey
+#username_steam: RagingRoosevelt
+#username_facebook: theodore.lindsey
+
+# contact info
+#phone: "(503) 898-0184"
+#email: tlindsey@ku.edu
+#office: Eaton 2029
+
+#timezone: America/Chicago
+
+# blog post url format
+permalink: /blog/:year/:month/:day/:title.html
+paginate: 5
+paginate_path: "/blog/page:num/"
