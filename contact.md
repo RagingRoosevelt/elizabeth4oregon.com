@@ -1,13 +1,13 @@
 ---
 layout: test
-title: Elizabeth Graser-Lindsey for Oregon HD39
+title: "Contact Elizabeth"
 description: Elizabeth Graser-Lindsey fights to preserve the heart of rural Oregon
 page_header: 
 last_modified_at: 2018-03-02
 ---
 
+<h1>Get in touch!</h1>
 
-<h1>Elizabeth Graser-Lindsey for Oregon HD39</h1>
-<h2>A way forward together in unity</h2>
-
-<p>
+<ul>
+    <li> Email: <a href="mailto:egraserlindsey@gmail.com">egraserlindsey@gmail.com</a>
+</ul>
