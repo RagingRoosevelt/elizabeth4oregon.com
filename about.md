@@ -8,7 +8,7 @@ last_modified_at: 2018-03-02
 
 <h1>About Elizabeth Graser-Lindsey</h1>
 
-<p><img src="/images/elizabeth.jpg" align="right" width="25%" style="border-radius: 25%; padding: 1ch;"></img> A small farmer and former university professor, Elizabeth has spent much of her volunteer time during the past two decades since moving to Beavercreek on local land-use and transportation issues. She got involved with local politics in the mid 1990s, when Metro selected Beavercreek for urbanization by designating it as an urban reserve.
+<p><img src="/images/elizabeth.jpg" align="right" width="25%" style="border-radius: 25%; padding: 1ch;" alt="Elizabeth petting a goat"></img> A small farmer and former university professor, Elizabeth has spent much of her volunteer time during the past two decades since moving to Beavercreek on local land-use and transportation issues. She got involved with local politics in the mid 1990s, when Metro selected Beavercreek for urbanization by designating it as an urban reserve.
 
 <p>Elizabeth helped re-activate the Beavercreek Community Planning Organization and was the co-chief petitioner for Beavercreek to be one of only four neighborhoods to be recognized by the county as a hamlet. She has since opposed Oregon City's plans to develop along Beavercreek Road without raising traffic standards, which she sees as responsible for allowing traffic to clog and ruining livability.
 
