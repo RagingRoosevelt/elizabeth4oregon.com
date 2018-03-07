@@ -1,0 +1,36 @@
+---
+---
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>{{ site.url }}/</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>{{ site.url }}/about.html</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>{{ site.url }}/contact.html</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>{{ site.url }}/news.html</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    <url>
+        <loc>{{ site.url }}/platform.html</loc>
+        <changefreq>weekly</changefreq>
+    </url>
+    
+    
+    
+    {% for post in site.posts %}
+    <url>
+        <loc>{{ site.url }}{{ post.url }}</loc>
+        <lastmod>{{post.last_modified_at}}</lastmod>
+        <changefreq>yearly</changefreq>
+    </url>
+    {% endfor %}
+</urlset>
+    
