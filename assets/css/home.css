@@ -1,0 +1,10 @@
+div.page {
+    background-image: url("/images/DSCN2995_s.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right center;
+}
+
+article {
+    text-shadow: 0 0 1ch #888888;
+}

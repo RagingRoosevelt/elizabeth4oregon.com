@@ -114,3 +114,10 @@ header nav li {
 header nav li:hover{
     background-color: #383838;
 }
+
+.red {
+    color: #972C2C;
+}
+.blue {
+    color: #083276;
+}
