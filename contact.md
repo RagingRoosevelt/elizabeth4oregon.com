@@ -8,4 +8,5 @@ last_modified_at: 2018-03-02
 
 <h1>Get in touch!</h1>
 
-* Email: <a href="mailto:elizabeth@elizabeth4oregon.com">elizabeth@elizabeth4oregon.com</a>
+* <img src="/images/pig_sketch.png" align="right" width="25%" style="border-radius: 25%; padding: 1ch;" alt="Elizabeth and Barry in Hawaii" />  
+Email: <a href="mailto:elizabeth@elizabeth4oregon.com">elizabeth@elizabeth4oregon.com</a>
