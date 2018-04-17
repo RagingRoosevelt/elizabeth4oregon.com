@@ -47,7 +47,7 @@ header {
 }
 
 article {
-    padding: 1em 2ch 1em 60px;
+    padding: 1em 60px 1em 60px;
     max-width: 120ch;
     padding-bottom: 60px;
     line-height: 1.5em;
@@ -71,6 +71,9 @@ article h3 {
 article p {
     padding: 1em 2ch 1em 2ch;
     font-weight: 400;
+}
+article ul {
+    margin: 1em 0 1em 0;
 }
 
 footer {

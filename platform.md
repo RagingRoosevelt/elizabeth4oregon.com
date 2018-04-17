@@ -16,4 +16,4 @@ last_modified_at: 2018-03-02
 
 <p>Let’s end our civic "civil war."  Although my friends and family span the party divide, we share many common values -- family, community, personal character, frugality, freedom from government interference, lawfulness, humanity. We can find our way forward together in unity.
 
-<p>When laws are made in Salem, I will make sure their impact on you -- your liveability and roads, your farms and businesses, your budget, your students, your access to health care, your environment -- will not be overlooked.
+<p>When laws are made in Salem, I will make sure their impact on you -- your livability and roads, your farms and businesses, your budget, your students, your access to health care, your environment -- will not be overlooked.
