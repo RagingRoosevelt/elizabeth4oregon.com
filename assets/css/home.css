@@ -6,5 +6,72 @@ div.page {
 }
 
 article {
-    text-shadow: 0 0 1ch #888888;
+    text-shadow: 0 0 1ch #ffffff;
+    line-height: 1em;
+}
+
+article div {
+    position: absolute;
+    bottom: 20%;
+}
+
+
+#cn {
+    font-size: 6.67em;
+    line-height: 1em;
+}
+#sn {
+    font-size: 4em; 
+    line-height: 1em;
+}
+#pos {
+    font-size: 3em;
+    line-height: 1em;
+}
+#tag {
+    font-size: 3em;
+    line-height: 1em;
+}
+
+
+@media only screen and (max-width: 800px){
+    article {
+        font-size: 10px;
+    }
+    article div {
+        text-align: center;
+        width: calc(100vw - 120px);
+        background: rgba(255,255,255,0.5);
+    }
+}
+@media only screen and (max-width: 600px){
+    div.page {
+        background-image: url("/images/elizabeth_barn_narrow.jpg");
+    }
+}
+@media only screen and (max-width: 600px){
+    article div {
+        bottom: 10%;
+    }
+}
+@media only screen and (max-width: 390px){
+    #cn {
+        font-size: 4em;
+        line-height: 1em;
+    }
+}
+
+
+.red {
+    color: #972C2C;
+    stroke: #972C2C;
+    fill: #972C2C;
+}
+.blue {
+    color: #083276;
+    stroke: #083276;
+    fill: #083276;
+}
+.glow {
+    fill: #888888;
 }

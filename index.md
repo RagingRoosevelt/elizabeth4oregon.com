@@ -7,7 +7,9 @@ last_modified_at: 2018-03-02
 extra_css: home.css
 ---
 
-<div style="position: absolute; bottom: 25%;">
-    <h1><span class='red'>Elizabeth Graser-Lindsey</span><br /><span class='blue'>for State Representative</span></h1>
-    <h2>Forward together in unity</h2>
+<div>
+    <span class="red" id="cn">Elizabeth</span><br />
+    <span class="red" id="sn">Graser-Lindsey</span><br />
+    <span class="blue" id="pos">for State Representative</span><br />
+    <span id="tag">Forward together in unity</span>
 </div>

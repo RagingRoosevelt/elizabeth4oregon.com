@@ -113,14 +113,9 @@ header nav li {
     box-sizing: border-box;
     padding: 0.5em 1ch 0.5em 1ch;
     margin: 0 auto 0 auto;
+    white-space: nowrap;
 }
 header nav li:hover{
     background-color: #383838;
 }
 
-.red {
-    color: #972C2C;
-}
-.blue {
-    color: #083276;
-}
