@@ -41,7 +41,7 @@ extra_css: news.css
 <li>Clackamas County Fair, Aug 15</li>
 </ul>
 
-<img class="rb fullspan" src="/images/float.jpg" alt="Visiting Epyllion Vineyard, Beavercreek (March 10)" title="Visiting Epyllion Vineyard, Beavercreek (March 10)" />
+<img class="rb fullspan" src="/images/float.jpg" alt="4th of July parade in Canby, OR (July 4)" />
 
 <h1>News Coverage</h1>
 

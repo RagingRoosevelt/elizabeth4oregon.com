@@ -31,4 +31,4 @@ last_modified_at: 2018-03-02
 * Protecting farming from drought and us and our health from expensive and smoky wildfires
 * Protecting our water supply from the declining snow pack on Mt. Hood which reduces rivers, causes fish kills and algae blooms (Clackamas River, 2015)
 
-<img class="fullspan rb" src="/images/petesbarn.jpg" alt="Visiting Epyllion Vineyard, Beavercreek (March 10)" title="Visiting Epyllion Vineyard, Beavercreek (March 10)" />
+<img class="fullspan rb" src="/images/petesbarn.jpg" alt="Visiting Pete's Barn and discussing traffic congestion, Beavercreek (March 10)" />
