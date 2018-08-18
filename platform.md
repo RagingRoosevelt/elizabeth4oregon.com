@@ -1,19 +1,34 @@
 ---
 layout: test
-title: "Elizabeth's Platform"
+title: "Elizabeth's Action Items"
 description: Elizabeth Graser-Lindsey fights to preserve the heart of rural Oregon
 page_header: 
 last_modified_at: 2018-03-02
 ---
 
-<h1>What does Elizabeth stand for?</h1>
+<h1>Elizabeth will address:</h1>
 
-<p><img src="/images/elizabeth_hi.jpg" align="right" width="25%" style="border-radius: 25%; padding: 1ch;" alt="Elizabeth and Barry in Hawaii" /> Oregonians shouldn’t be priced out of the housing market nor should Oregon have among the lowest high-school graduation rates in the country.  I am seeking solutions.
+<img src="/images/elizabeth.jpg" align="right" width="25%" style="border-radius: 25%; padding: 1ch;" alt="Elizabeth petting a goat" />
 
-<p>Our regional snowpack is declining compromising our drinking-water supply.  Drier summers have caused more wildfires and dying perennials, shortened the livestock pasturing season, and lead to overdrawing on the Clackamas River.  Terrible tropical mosquitoes approach.  We’re overdo for solutions including energy conservation and weatherization.
+## Taming growth and maintaining our livability
+* Solving traffic congestion and lack of safety
+* Preserving farmlands from development
+* Restoring Voter-Approved Annexations to Canby and Estacada
+* Having growth pay its own way through System Development Charges rather than tolls, taxes, and bonds
 
-<p>Since China recently stopped taking most of our recycling, Oregon must re-invent its recycling commitment.
+## Re-invigorating the middle class
 
-<p>Let’s end our civic "civil war."  Although my friends and family span the party divide, we share many common values -- family, community, personal character, frugality, freedom from government interference, lawfulness, humanity. We can find our way forward together in unity.
+* Solving the shortage of local family-wage jobs by protecting jobs lands and incubating local business start ups
+* Making a decent living at farming/ranching/logging
+* Considering how exploding property costs price out Oregonian
+* Raising low high-school graduation rates by solving the school funding impasse and by engaging students e.g by shop and band and mentors
+* Addressing high decudtables that make health care inaccessable to many
 
-<p>When laws are made in Salem, I will make sure their impact on you -- your livability and roads, your farms and businesses, your budget, your students, your access to health care, your environment -- will not be overlooked.
+
+## Protecting us and our environment
+
+* Localize recycling (e.g. steel and paper mills and jobs) that previously was shipped to China
+* Protecting farming from drought and us and our health from expensive and smoky wildfires
+* Protecting our water supply from the declining snow pack on Mt. Hood which reduces rivers, causes fish kills and algae blooms (Clackamas River, 2015)
+
+<img class="fullspan rb" src="/images/petesbarn.jpg" alt="Visiting Epyllion Vineyard, Beavercreek (March 10)" title="Visiting Epyllion Vineyard, Beavercreek (March 10)" />

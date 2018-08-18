@@ -11,7 +11,7 @@ article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, 
     display: block;
     box-sizing: border-box;
 }
-ol, ul {
+header ol, header ul {
     list-style: none;
 }
 blockquote, q {
@@ -95,8 +95,9 @@ header img {
     vertical-align: middle;
     position: absolute;
 }
-@media only screen and (max-width: 500px){
+@media only screen and (max-width: 590px){
     header img {
+        display: none;
         position: relative;
         margin: 0 auto 0 auto;
     }
@@ -119,3 +120,16 @@ header nav li:hover{
     background-color: #383838;
 }
 
+
+
+
+img.fullspan {
+    margin: 0 0 2em 0;
+    width: 100%;
+    border-radius: 2em 2em 0 0;
+}
+
+img.fullspan.rb {
+    border-radius: 0 0 2em 2em;
+    
+}

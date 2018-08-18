@@ -7,9 +7,10 @@ last_modified_at: 2018-03-02
 extra_css: home.css
 ---
 
-<div>
+    
+<div style="font-family: Verdana; font-weight: bold;	font-style: normal; font-variant: normal; ">
     <span class="red" id="cn">Elizabeth</span><br />
-    <span class="red" id="sn">Graser-Lindsey</span><br />
-    <span class="blue" id="pos">for State Representative</span><br />
-    <span id="tag">Forward together in unity</span>
+    <span class="blue" id="sn">Graser-Lindsey</span><br />
+    <span class="" id="pos">for State Rep<span class="small-hide">resentative</span></span><br /><br />
+    <span id="tag" class="small-hide">Forward together in unity</span>
 </div>

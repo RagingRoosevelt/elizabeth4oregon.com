@@ -6,13 +6,13 @@ div.page {
 }
 
 article {
-    text-shadow: 0 0 1ch #ffffff;
+    text-shadow: 0 0 3ch #ffffff;
     line-height: 1em;
 }
 
 article div {
     position: absolute;
-    bottom: 20%;
+    bottom: 10%;
 }
 
 
@@ -54,12 +54,16 @@ article div {
         bottom: 10%;
     }
 }
-@media only screen and (max-width: 390px){
+@media only screen and (max-width: 460px){
     #cn {
         font-size: 4em;
         line-height: 1em;
     }
+    .small-hide {
+        display: none;
+    }
 }
+
 
 
 .red {
@@ -73,5 +77,5 @@ article div {
     fill: #083276;
 }
 .glow {
-    fill: #888888;
+    fill: #ffffff;
 }
