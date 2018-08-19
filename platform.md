@@ -8,7 +8,7 @@ last_modified_at: 2018-03-02
 
 <h1>Elizabeth will address:</h1>
 
-<img src="/images/elizabeth.jpg" align="right" width="25%" style="border-radius: 25%; padding: 1ch;" alt="Elizabeth petting a goat" />
+<img src="/images/elizabeth.jpg" align="right"  class="inline" style="border-radius: 25%; padding: 1ch;" alt="Elizabeth petting a goat" />
 
 ## Taming growth and maintaining our livability
 * Solving traffic congestion and lack of safety

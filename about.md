@@ -8,7 +8,7 @@ last_modified_at: 2018-03-02
 
 # Elizabeth Is A Proven Leader Who Gets Results
 
-<img src="/images/elizabeth_hi.jpg" align="right" width="25%" style="border-radius: 25%; padding: 1ch;" alt="Elizabeth and Barry in Hawaii" />
+<img src="/images/elizabeth_hi.jpg" align="right" class="inline" style="border-radius: 25%; padding: 1ch;" alt="Elizabeth and Barry in Hawaii" />
 
 ## She led the fight that kept Metro out of Beavercreek
  
