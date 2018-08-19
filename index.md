@@ -8,7 +8,7 @@ extra_css: home.css
 ---
 
     
-<div style="font-family: Verdana; font-weight: bold;	font-style: normal; font-variant: normal; text-shadow: 2px 2px 4px white, -2px 2px 4px white, 2px -2px 4px white, -2px -2px 4px white; ">
+<div style="font-family: Verdana; font-weight: bold;	font-style: normal; font-variant: normal; text-shadow: 4px 4px 8px white, -4px 4px 8px white, 4px -4px 8px white, -4px -4px 8px white; ">
     <span class="red" id="cn">Elizabeth</span><br />
     <span class="blue" id="sn">Graser-Lindsey</span><br />
     <span class="" id="pos">for State Rep<span class="small-hide">resentative</span></span><br /><br />
